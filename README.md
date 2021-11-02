@@ -1,4 +1,4 @@
-
+This repository uses the master branch of https://github.com/m-wrzr/populartimes.git 1/11/2021
 # Populartimes  
 The goal of this library is to provide an option to use *Google Maps* popular times data, until it is available via Google's API. 
 For legal concerns please read [Issue #90](../../issues/90). 
