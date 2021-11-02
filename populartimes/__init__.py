@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-from .crawler import run
-from .crawler import get_populartimes
+from crawler import run
+from crawler import get_populartimes
 
 import warnings
 import logging
